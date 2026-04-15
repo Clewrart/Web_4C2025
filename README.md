@@ -5,10 +5,11 @@
 - 计算机设计大赛省赛二等奖，May,2025
 - 计算机设计大赛国赛二等奖，July,2025
 - CPEC2025优秀论文二等奖，Sept,2025
+
+![202507_4c软件类国二](https://github.com/user-attachments/assets/d97a1aa1-17db-4ec6-8143-5527eaf7f9c2)
+![202506_4c软件类_省二1作](https://github.com/user-attachments/assets/5bb0d2fa-04dd-418f-b3df-ef8ea45f01aa)
 ### 技术栈：Vue3+SpringBoot+MySQL
 
-![202506_4c软件类_省二1作](https://github.com/user-attachments/assets/5bb0d2fa-04dd-418f-b3df-ef8ea45f01aa)
-![202507_4c软件类国二](https://github.com/user-attachments/assets/d97a1aa1-17db-4ec6-8143-5527eaf7f9c2)
 
 # CPEC2025演示系统/论文系统《基于模块化架构的机器学习与图像处理实验课程自动评分系统》
 ## 西南林业大学 大数据与智能工程学院
